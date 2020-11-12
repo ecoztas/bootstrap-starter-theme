@@ -2,12 +2,12 @@
 @charset 'utf-8';
 
 // Import file (s).
-@import 'app/variables';
-@import 'app/mixins';
-@import 'app/skeleton';
-@import 'app/layouts';
-@import 'app/modules';
-@import 'app/states';
+@import 'application/variables';
+@import 'application/mixins';
+@import 'application/skeleton';
+@import 'application/layouts';
+@import 'application/modules';
+@import 'application/states';
 
 // Import vendor file (s).
-@import 'app/vendor/bootstrap';
+@import 'application/vendor/bootstrap';
