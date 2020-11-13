@@ -1,13 +1,13 @@
 /**
- * SASS-KIT for SASS development.
+ * Bootstrap Starter - Theme
  *
  *
  *
- * @package     sass-kit
+ * @package     bootstrap-starter-theme
  * @author      ÖZTAŞ, Emre Can <me@emrecanoztas.com>
  * @copyright   2020
  * @license     MIT
- * @link        https://github.com/ecoztas/sass-kit
+ * @link        https://github.com/ecoztas/bootstrap-starter-theme
  * @since       v1.0
  */
 
